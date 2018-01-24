@@ -1,0 +1,24 @@
+If something is missing, or wrong, pull requests are welcome.
+
+Almost all original files are under [assets/](assets/) sorted by year.
+
+The full Liber Primus is [here](assets/2014/liber-primus-complete).
+
+## Years
+ * [2012](2012.md)
+ * [2013](2013.md)
+ * [2014](2014.md)
+ * [2015](2015.md)
+ * [2016](2016.md)
+ * 2017
+ * 2018
+
+## Others
+  * [gematria primus](gematria_primus.md)
+  * [irl addresses](irl.md)
+  * [pages and ciphers](pages_and_ciphers.md)
+  * [liber primus](liner_primus.md)
+  * [possible hints, never used](hints_never_used.md)
+  
+## Links, credit
+No credits, but sources were the pages under these [useful links](links.md), Dr. Google, some folks on [#cicadasolvers](http://webchat.freenode.net/?channels=cicadasolvers) and life.  

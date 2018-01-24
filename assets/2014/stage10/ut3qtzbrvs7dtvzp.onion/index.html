@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<title>Welcome, pilgrim.</title>
+	</head>
+	<body>
+<pre>
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+Hello.  You have done well to come this far.
+
+Please paste the magic squares into the appropriate textareas below, then
+provide the URL to your Tor hidden service.
+
+The path to your CGI script which accepts uploads should be '/cgi-bin/upload'
+and the HTML form input which accepts file uploads should be named 'file'.
+
+Additionally, please generate a GnuPG key pair, and place the public key
+in the location '/key.asc'.
+
+We will contact you soon.
+
+Good luck.
+
+3301
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJS43VRAAoJEBgfAeV6NQkPVcQP/Rnli3AdTLAj28W1SMHTD6v0
+Q67n89uGF6ZeD4U+dD2FHULAL9upNBRdzF7golqcfJCpeIKN0JYyilpGgSyTQmx+
+yJXinlq4ZY+NNN45t8FtULvpVVO+L1ztF6dcohK+ZhAWWFj5u5WwEINx0mo+TE35
+S7imfprBdk2C5B/E8ds7m35s74oWfdys8oY+vUHzOT4KB0SYFbankH6aLIe7fiTa
+STB1Effelhg9F8YjDsopFHyF/kozI+eYk9yJcDEhlO4aiIkfZdNdLhXz80SIKw9v
+ryjTCPUJfFrVpaelHxBefTOQHPfQEWnua7h6V6bx8Wiem7eiNyfXMAk1uoiu9zWW
+FbA+MIFZ711kLvzD9Sg/0YGY97Gzzt0M1e8Pl/JYYzjOzFOH5pqmgMoOTBO0bvV+
+d+QaLLiKmH0cYdTKmLv2xJ/1y7z0pakmgXCOhzIVQCDwoMxfGELLi9MNroaZFK3e
+JzeDy828EfafrWpQ/LNzovb0XHyR1p4RRLq9vqMTFo0U0U7lLDKfWJvs4Y73o2Pn
+QRNzn2+2GPQPj1CRMp5gxDFzwAMT0RBAfagkDiQu2uDxk8NZfSWkJVmsAUlLQLA9
+7Wa5zuxPNvBf8Bws6y1C241FVfyttC4tNZEp2ShtbnHkZj1gFZf5v4rbq8wsxPrJ
+Jp8kkuLi0PWCITmtfTsb
+=TwC1
+-----END PGP SIGNATURE-----
+</pre>
+
+		<form method="post" action="/cgi-bin/squares">
+			<div>
+
+				<p> Order 5 Square, 3301 </p>
+				<textarea name="53301"></textarea>
+			</div>
+			<div>
+				<p> Order 7 Square, 1033 </p>
+				<textarea name="71033"></textarea>
+
+			</div>
+			<div>
+				<p> Order 5 Square, 1033 </p>
+				<textarea name="51033"></textarea>
+			</div>
+			<div>
+				<p> Your onion address: </p>
+
+				<input type="text" name="onion" />
+			</div>
+			<div>
+				<input type="submit" value="Submit" />
+			</div>			
+		</form>
+	</body>
+</html>
