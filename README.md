@@ -1,3 +1,5 @@
+<p align="middle"><img src="assets/2012/cicada.jpg" alt="cicada.jpg" width="600" border="2"></p>
+
 If something is missing, or wrong, pull requests are welcome.
 
 Almost all original files are under [assets/](assets/) sorted by year.
@@ -5,9 +7,9 @@ Almost all original files are under [assets/](assets/) sorted by year.
 The full Liber Primus is [here](assets/2014/liber-primus-complete).
 
 ## Years
- * [2012](2012.md)
- * [2013](2013.md)
- * [2014](2014.md)
+ * [2012](2012.md) - [map](2012.png)
+ * [2013](2013.md) - [map](2013.png)
+ * [2014](2014.md) - [map](2014.png)
  * [2015](2015.md)
  * [2016](2016.md)
  * 2017
