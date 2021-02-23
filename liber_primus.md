@@ -123,8 +123,8 @@ By substituting each character for its respective value in Gematria Primus 2013,
     TEST THE KNOWLEDGE                 =  691
     FIND YOUR TRUTH                    =  353*
     EXPERIENCE YOUR DEATH              =  769*
-    DO NOT EDIT OR CHANGE THIS BOOK    =  911*
-    OR THE MESSAGE CONTAINED WITHIN    = 1051*
+    DO NOT EDIT OR CHANGE THIS BOOK    =  911
+    OR THE MESSAGE CONTAINED WITHIN    = 1051
     EITHER THE WORDS OR THE NUMBERS    =  859
     FOR ALL IS SACRED                  =  677
 
