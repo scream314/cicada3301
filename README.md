@@ -19,7 +19,7 @@ The full Liber Primus is [here](assets/2014/liber-primus-complete).
   * [gematria primus](gematria_primus.md)
   * [irl addresses](irl.md)
   * [pages and ciphers](pages_and_ciphers.md)
-  * [liber primus](liner_primus.md)
+  * [liber primus](liber_primus.md)
   * [possible hints, never used](hints_never_used.md)
   
 ## Links, credit
