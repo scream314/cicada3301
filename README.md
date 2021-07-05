@@ -12,8 +12,7 @@ The full Liber Primus is [here](assets/2014/liber-primus-complete).
  * [2014](2014.md) - [map](2014.png)
  * [2015](2015.md)
  * [2016](2016.md)
- * 2017
- * 2018
+ * [2017](2017.md)
 
 ## Others
   * [gematria primus](gematria_primus.md)
