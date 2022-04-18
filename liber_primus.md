@@ -1,10 +1,15 @@
-The Liber Primus is also known as "the runes".<br>
-The published part is titled "Chapter 1 - Intus".<br>
-The Liber Primus was published in 2 parts (fno: LP1 and LP2).<br>
-LP1 is 17 (2 + 15) pages long.<br>
-LP2 is 58 pages long (0-57).<br>
-That gives 75 (73 + 2) pages in total.<br>
-<br>
+The Liber Primus is also known as "the runes".
+
+The published part is titled "Chapter 1 - Intus".
+
+The Liber Primus was published in 2 parts (fno: LP1 and LP2).
+
+LP1 is 17 (2 + 15) pages long.
+
+LP2 is 58 pages long (0-57).
+
+That gives 75 (73 + 2) pages in total.
+
 # LP1
 ## Liber Primus - 00.jpg
 
@@ -919,7 +924,7 @@ After reversing the Vignere cipher:
     LIKE THE INSTAR, IT IS ONLY THROUGH GOING
     WITHIN THAT WE MAY EMERGE:
     
-    WISDOM:
+    WIDSOM:
     YOU ARE A BEING UNTO YOURSELF.
     YOU ARE A LAW UNTO YOURSELF.
     EACH INTELLIGENCE IS HOLY.
@@ -1085,7 +1090,7 @@ The runes were not encrypted, and they read:
     E LOSS OF DIVINITY.
     
     CONSUMPTION: WE CONSUME TOO
-    MUCH BECAUSE WE BELEIVE THE
+    MUCH BECAUSE WE BELIEVE THE
     FOLLWING TWO ERRORS WITHIN THE DEC
     EPTION.
     
@@ -1366,7 +1371,7 @@ Runes:
     ᚩᚻ•ᛗᛈᛗᚳᛡᚱ•ᚱᛏᛈᛒᛈᛗᛈ•ᚦᚹ•ᛗᚳᛁᛞᚹᚾᚣ•ᛠᚾᚪ•ᚳᚪᛠᛡ"•ᛚᛡ•ᚢᛝᛁᛋᛟ•ᚦᚫᚷ•ᛄᛗᛗᚳ•ᚪᚪᛠᛞ•ᚹᚹᚢ•ᚾᛉᚢᚹ•ᛈᛝ•ᛁᚩᛠᚳᛠ•ᛉᚾ•ᛡᛟᚢᛟ•ᛇᛒᚩ•ᛁᚱ•ᚦᛠ•ᛉ"
     ᚪᛁᛈ•ᚦᚹ•ᛗᚳᛁᛞᚹᚾᚣᛗ•ᚹᛗᛞᛖ•ᚹᛈᚾᛗᚷᚣᛏᛠᛈᛖᚪ
 
-Decoding the runes on the page using a Vignere cipher and key CIRCUMFERENCE yields:
+Decoding the runes on the page using a Vigenere cipher and key `FIRFUMFERENFE` yields:
 
     A KOAN: DURING A LESSION: THE MAS
     TER EXPLAINED THE I:"THE 
@@ -1388,7 +1393,7 @@ Outguess:
 
 <a href="assets/2014/liber-primus-complete/15.jpg"><img src="thumbnails/liber-primus-complete/thumb.15.jpg" alt="15.jpg" class="img-thumbnail" style="height: 200px"></a>
 
-Decoding the runes on the page using a Vignere cipher and key `CIRCUMFERENCE` yields:
+Decoding the runes on the page using a Vigenere cipher and key `FIRFUMFERENFE` yields:
 
     PED THE STUDENT,AND SAID"THE 
     VOICE THAT JUST SAID YOU HAV
