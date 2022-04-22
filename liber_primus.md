@@ -258,69 +258,6 @@ Outguess:
     =IW8b
     -----END PGP SIGNATURE-----
 
-## 05.jpg
-
-<a href="assets/2014/liber-primus-complete/05.jpg"><img src="thumbnails/liber-primus-complete/thumb.05.jpg" alt="05.jpg" class="img-thumbnail" style="height: 200px"></a>
-
-**Key:** Substitution with default Gematria.
-
-This page is written in runes and contains a magic square, where dome numbers are written in runes.<br>
-
-Runes:
-
-    ᛋᚩᛗᛖ•ᚹᛁᛋᛞᚩᛗ
-    ᚦᛖ•ᛈᚱᛁᛗᛖᛋ•ᚪᚱᛖ•ᛋᚪᚳᚱᛖᛞ
-    ᚦᛖ•ᛏᚩᛏᛁᛖᚾᛏ•ᚠᚢᚾᚳᛏᛡᚾ•ᛁᛋ•ᛋᚪᚳᚱᛖᛞ
-    ᚪᛚᛚ•ᚦᛝᛋ•ᛋᚻᚩᚢᛚᛞ•ᛒᛖ•ᛖᚾᚳᚱᚣᛈᛏᛖᛞ
-
-    ᚳᚾᚩᚹ•ᚦᛁᛋ
-    
-    272			138			ᛋᚻᚪᛞᚩᚹᛋ		131			151
-    ᚫᚦᛖᚱᛠᛚ		ᛒᚢᚠᚠᛖᚱᛋ		ᚢᚩᛁᛞ		ᚳᚪᚱᚾᚪᛚ		18
-    226			ᚩᛒᛋᚳᚢᚱᚪ		ᚠᚩᚱᛗ		245			ᛗᚩᛒᛁᚢᛋ
-    18			ᚪᚾᚪᛚᚩᚷ		ᚢᚩᛁᛞ		ᛗᚩᚢᚱᚾᚠᚢᛚ	ᚫᚦᛖᚱᛠᛚ
-    151			131			ᚳᚪᛒᚪᛚ		138			272
-
-
-The runes of the image read (using [[Gematria_Primus#Gematria Primus 2014|Gematria Primus 2014]]?):
-
-    SOME WISDOM
-    THE PRIMES ARE SACRED
-    THE TOTIENT FUNCTION IS SACRED
-    ALL THINGS SHOULD BE ENCRYPTED
-    
-    KNOW THIS:
-
-    272			138			SHADOWS		131			151
-    
-    AETHEREAL	BUFFERS		VOID		CARNAL		18
-    
-    226			OBSCURA		FORM		245			MOBIUS
-    
-    18			ANALOG		VOID		MOURNFUL	AETHEREAL
-    
-    151			131			CABAL		138			272
-
-The table underneath, translated to value form using [[Gematria_Primus#Gematria Primus 2013|Gematria Primus 2013]], yields:
-
-Numbers:
-
-    272     138     341     131     151
-    
-    366     199     130     320     18
-    
-    226     245     91      245     226
-    
-    18      320     130     199     366
-    
-    151     131     341     138     272
-
-which is the exact same matrix found earlier from the [[Cicada#The_Third_Onion|OOB data]].<br>
-
-Outguess:
-
-    none
-
 ## 03.jpg
 
 <a href="assets/2014/liber-primus-complete/03.jpg"><img src="thumbnails/liber-primus-complete/thumb.03.jpg" alt="03.jpg" class="img-thumbnail" style="height: 200px"></a>
@@ -892,6 +829,19 @@ Outguess:
     =/i7c
     -----END PGP SIGNATURE-----
 
+Gematria sums (emirps marked by *):
+
+    WELCOME
+        = 317
+    WELCOME, PILGRIM TO THE GREAT JOURNEY TOWARD THE END OF ALL THINGS
+        = 2113
+    IT IS NOT AN EASY TRIP, BUT FOR THOSE WHO FIND THEIR WAY HERE IT IS A NECESSARY ONE
+        = 2647
+    ALONG THE WAY YOU WILL FIND AN END TO ALL STRUGGLE AND SUFFERING, YOUR INNOCENCE, YOUR ILLUSIONS, YOUR CERTAINTY, AND YOUR REALITY.
+        = 4577 (composite)
+    ULTIMATELY, YOU WILL DISCOVER AN END TO SELF
+        = 1791 (composite)
+
 ## 04.jpg
 
 <a href="assets/2014/liber-primus-complete/04.jpg"><img src="thumbnails/liber-primus-complete/thumb.04.jpg" alt="04.jpg" class="img-thumbnail" style="height: 200px"></a>
@@ -935,6 +885,77 @@ After reversing the Vignere cipher:
 Outguess:
 
     Outguessing the image yields 7,5kB garbage output.
+
+## 05.jpg
+
+<a href="assets/2014/liber-primus-complete/05.jpg"><img src="thumbnails/liber-primus-complete/thumb.05.jpg" alt="05.jpg" class="img-thumbnail" style="height: 200px"></a>
+
+**Key:** Substitution with default Gematria.
+
+This page is written in runes and contains a magic square, where dome numbers are written in runes.<br>
+
+Runes:
+
+    ᛋᚩᛗᛖ•ᚹᛁᛋᛞᚩᛗ
+    ᚦᛖ•ᛈᚱᛁᛗᛖᛋ•ᚪᚱᛖ•ᛋᚪᚳᚱᛖᛞ
+    ᚦᛖ•ᛏᚩᛏᛁᛖᚾᛏ•ᚠᚢᚾᚳᛏᛡᚾ•ᛁᛋ•ᛋᚪᚳᚱᛖᛞ
+    ᚪᛚᛚ•ᚦᛝᛋ•ᛋᚻᚩᚢᛚᛞ•ᛒᛖ•ᛖᚾᚳᚱᚣᛈᛏᛖᛞ
+
+    ᚳᚾᚩᚹ•ᚦᛁᛋ
+    
+    272			138			ᛋᚻᚪᛞᚩᚹᛋ		131			151
+    ᚫᚦᛖᚱᛠᛚ		ᛒᚢᚠᚠᛖᚱᛋ		ᚢᚩᛁᛞ		ᚳᚪᚱᚾᚪᛚ		18
+    226			ᚩᛒᛋᚳᚢᚱᚪ		ᚠᚩᚱᛗ		245			ᛗᚩᛒᛁᚢᛋ
+    18			ᚪᚾᚪᛚᚩᚷ		ᚢᚩᛁᛞ		ᛗᚩᚢᚱᚾᚠᚢᛚ	ᚫᚦᛖᚱᛠᛚ
+    151			131			ᚳᚪᛒᚪᛚ		138			272
+
+
+The runes of the image read using [Gematria Primus](gematria_primus.md):
+
+    SOME WISDOM
+    THE PRIMES ARE SACRED
+    THE TOTIENT FUNCTION IS SACRED
+    ALL THINGS SHOULD BE ENCRYPTED
+    
+    KNOW THIS:
+
+    272			138			SHADOWS		131			151
+    
+    AETHEREAL	BUFFERS		VOID		CARNAL		18
+    
+    226			OBSCURA		FORM		245			MOBIUS
+    
+    18			ANALOG		VOID		MOURNFUL	AETHEREAL
+    
+    151			131			CABAL		138			272
+
+The table underneath, translated to value form using [Gematria Primus](gematria_primus.md), yields:
+
+Numbers:
+
+    272     138     341     131     151
+    
+    366     199     130     320     18
+    
+    226     245     91      245     226
+    
+    18      320     130     199     366
+    
+    151     131     341     138     272
+
+which is the exact same matrix found earlier from the [[Cicada#The_Third_Onion|OOB data]].<br>
+
+Outguess:
+
+    none
+
+Gematria sums (emirps marked by *):
+
+    SOME WISDOM                     =   468
+    THE PRIMES ARE SACRED           =   853
+    THE TOTIENT FUNCTION IS SACRED  =   1039
+    ALL THINGS SHOULD BE ENCRYPTED  =   1237*
+    KNOW THIS                       =   157*
 
 ## 06.jpg
 
@@ -1091,7 +1112,7 @@ The runes were not encrypted, and they read:
     
     CONSUMPTION: WE CONSUME TOO
     MUCH BECAUSE WE BELIEVE THE
-    FOLLWING TWO ERRORS WITHIN THE DEC
+    FOLLOWING TWO ERRORS WITHIN THE DEC
     EPTION.
     
         1 WE DO NOT HAVE ENOUGH
