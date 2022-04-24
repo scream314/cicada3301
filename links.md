@@ -4,9 +4,23 @@ The best.
 
 Link: <http://uncovering-cicada.wikia.com/>
 
-# CicadaSolvers Discord
+# CicadaSolvers Reddit and Discord
 
-Link: <https://discord.com/channels/572330844056715284/>
+Reddit: https://www.reddit.com/r/CicadaSolvers/
+
+Discord: <https://discord.com/channels/572330844056715284/>
+
+# cicada.gq
+
+Various tools running in your browser.
+
+Link: <https://cicada.gq/>
+
+# cicada3301.boards.net
+
+Ideas.
+
+Link: https://cicada3301.boards.net/
 
 # #cicadasolvers on freenode
 
