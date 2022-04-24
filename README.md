@@ -22,4 +22,6 @@ The full Liber Primus is [here](assets/2014/liber-primus-complete).
   * [possible hints, never used](hints_never_used.md)
   
 ## Links, credit
-No credits, but sources were the pages under these [useful links](links.md), Dr. Google, some folks on [#cicadasolvers](http://webchat.freenode.net/?channels=cicadasolvers) and life.  
+No credits, but sources were the pages under these [useful links](links.md), Dr. Google, 
+some folks on [#cicadasolvers](http://webchat.freenode.net/?channels=cicadasolvers) (defunct?) 
+and the [CicadaSolvers Discord](https://discord.com/channels/572330844056715284/) and life.  
