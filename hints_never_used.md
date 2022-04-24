@@ -62,6 +62,8 @@ There are trailing spaces in some messages by Cicada 3301.
 
 ### Outguess of vjuNp.jpg (2012)
 
+[Here.](2012.md#the-final-message)
+
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
     
@@ -105,9 +107,49 @@ There are trailing spaces in some messages by Cicada 3301.
     =HMPw
     -----END PGP SIGNATURE-----
 
-The whitespaces in the message gave the following sequence: <code>0, 2 , 3, 5, 7, 11, 13, (1, 1, 2), 11, 0, 7, 0, 5, 0, 3, 2</code>.
+The whitespaces in the message gave the following sequence: <code>0, 2, 3, 5, 7, 11, 13, (1, 1, 2), 11, 0, 7, 0, 5, 0, 3, 2</code>.
+
+### 'hello' telnet hexdump (2013)
+
+[Here.](2013.md#hello-hi-get-message-get-3301-get-1033)
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA1
+    
+    ***** - 5
+    Very good.
+    *** - 3
+    You have done well to come this far.
+    ** - 2
+    xsxnaksict6egxkq.onion
+    ** - 2
+    Good luck.
+    *** - 3
+    3301
+    ***** - 5
+    -----BEGIN PGP SIGNATURE-----
+    Version: GnuPG v1.4.11 (GNU/Linux)
+    
+    iQIcBAEBAgAGBQJQ6S0HAAoJEBgfAeV6NQkP/J0QALDqa3VJy9xLLlgI5jPhRIp4
+    fxebbNhtELOHYFkD5Z9ztQYGle7lKPM8lkMSnciIY059KIi5NSTV7I97sJboG3wt
+    khHtZgNRw1v2WQ5uurCu5l1w+84/L5Jz2NmElxOBzWr68dlQYt2qfBQxk2zR/fTI
+    TLCEGvFZtlnrNfBk7jsIyJYcXXPgabS47oP9vOEXlB1+Pm0C7uPPBPN7aqkfUPGl
+    o1f2hscJf7Je2DvbZt+6exxYsm57Fp953XANAd/UpFVzT/852Xg63gtZrI+Smf3Z
+    BVcjpCzyH3wS8R0iM+rp02CwJpJzsWGLxeQGmXL2SXBB43zVZAJql5UdXLTGXkbd
+    nPMd3/CbJ+l7rO0YAg5p3Jf4KauX7Zd6Zc2wHKLOvfjQvEWXIY1CMhI68Bj0rZo/
+    M/fi313FFTPAm6xhKRv/tH/8wVrar2jY7wnE8XxhRsy74AZ5GqA2oHMefTAq3YuW
+    5PX8s682J4pkDUKHGa4y65vjIp16pmEInMALJGbwz6mtauBQqlS6ARsQfekDn3oZ
+    yosS+gWC3jdIvH5s5WUQGVl7jyz9t4+3Tg5cT9Rn6pX2NVNXSxgzXXB4nI2XrrYa
+    4kQr5aWB8lssav3ryj5Cg2FHl1+MKO0gYv/UF3QT75MixQMu4M+5wCnNekgfuyO6
+    Zvybzp4s4SzRjkk9sMM6
+    =WYVO
+    -----END PGP SIGNATURE-----
+
+The whitespaces in the message gave the following sequence: <code>5, 3, 2, 2, 3, 5</code>.
 
 ### message.txt.asc (2014)
+
+[Here.](2014.md#20140502-at-around-1000-gmt)
 
 	-----BEGIN PGP SIGNED MESSAGE-----
 	Hash: SHA1
