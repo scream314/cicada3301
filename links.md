@@ -1,14 +1,18 @@
 # Uncovering Cicada Wiki
 
+The best.
+
 Link: <http://uncovering-cicada.wikia.com/>
 
-It is a mess, but it exists. Almost everything is documentet on it, but 
+# CicadaSolvers Discord
+
+Link: <https://discord.com/channels/572330844056715284/>
 
 # #cicadasolvers on freenode
 
 Link: <http://webchat.freenode.net/?channels=cicadasolvers>
 
-IRC chat.
+IRC chat. Defunct?
 
 # Max Bernstein's Cicada 3301 page
 
@@ -31,8 +35,6 @@ Links: <https://github.com/micheloosterhof/cicada-2014> and <https://github.com/
 
 A good repo.
 
-## rtkd/idkfa
+## rtkd/idkfa and rtkd/iddqd
 
-Link: <https://github.com/rtkd/idkfa>
-
-Another good repo.
+Link: <https://github.com/rtkd/idkfa> and <https://github.com/rtkd/iddqd>
