@@ -20,7 +20,8 @@ That gives 75 (73 + 2) pages in total.
 
     Liber Primus
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -76,6 +77,7 @@ Outguess:
     DwDOHMwAIKZ1k7JtlMfB
     =v5mD
     -----END PGP SIGNATURE-----
+</details>
 
 ## Runes - 01.jpg
 
@@ -133,7 +135,8 @@ By substituting each character for its respective value in Gematria Primus 2013,
     EITHER THE WORDS OR THE NUMBERS    =  859
     FOR ALL IS SACRED                  =  677
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -189,6 +192,7 @@ Outguess:
     OgqRJn3MNOr+Ne7K97z3
     =fabe
     -----END PGP SIGNATURE-----
+</details>
 
 ## Intus - 02.jpg
 
@@ -201,7 +205,8 @@ Outguess:
     
     Intus
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -257,6 +262,7 @@ Outguess:
     TYZhnC/brWCq72fdZSEc
     =IW8b
     -----END PGP SIGNATURE-----
+</details>
 
 ## 03.jpg
 
@@ -293,7 +299,8 @@ After some time with trial and error, it was discovered that this ciphertext had
     ILLUSIONS, YOUR CERTAINTY, AND YOUR REALITY.
     ULTIMATELY, YOU WILL DISCOVER AN END TO SELF.
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -828,6 +835,7 @@ Outguess:
     QIkQl7cw5fAB9XJZ8x2i
     =/i7c
     -----END PGP SIGNATURE-----
+</details>
 
 Gematria sums (emirps marked by *):
 
@@ -1118,7 +1126,8 @@ The runes were not encrypted, and they read:
         1 WE DO NOT HAVE ENOUGH
         OR THERE IS NOT ENOUGH
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -1163,6 +1172,7 @@ Outguess:
     a+QzPmj23nt6+gfPGD0C
     =4CVy
     -----END PGP SIGNATURE-----
+</details>
 
 ## 11.jpg - index.2.jpg
 
@@ -1184,7 +1194,8 @@ The runes were not encrypted, and they read:
     T BE STRONG ENOUGH TO GAIN THEM
     AGAIN. THIS IS THE DECEPTION.
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -1229,6 +1240,7 @@ Outguess:
     JKQ6RQ9NbHJA6rxCX6UV
     =XIyP
     -----END PGP SIGNATURE-----
+</details>
 
 ## 12.jpg - index.3.jpg
 
@@ -1250,7 +1262,8 @@ The runes were not encrypted, and they read:
     IT IS THE BEHAVIORS OF CONSUMPT
     ION, PRESERVATION, AND ADHEREN
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -1295,6 +1308,7 @@ Outguess:
     wFBHJbC8oUgkS3JeJgE5
     =UmhP
     -----END PGP SIGNATURE-----
+</details>
 
 ## 13.jpg - index.4.jpg
 
@@ -1327,7 +1341,8 @@ The runes were not encrypted, and they read:
     AN INSTRUCTION: PROGRAM YOU
     R MIND. PROGRAM REALITY
 
-Outguess:
+<details>
+  <summary>Outguess</summary>
 
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
@@ -1372,6 +1387,7 @@ Outguess:
     a+QzPmj23nt6+gfPGD0C
     =4CVy
     -----END PGP SIGNATURE-----
+</details>
 
 ## 14.jpg - 107.jpg
 
